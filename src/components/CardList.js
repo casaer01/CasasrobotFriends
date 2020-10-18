@@ -4,9 +4,12 @@ import Card from './Card';
 
 const CardList = ({ robots }) => {
     const cardComponent = robots.map((user, i) => {
+        // if (true){
+        //     throw new Error('ERROR FOUND!')
+        // }
         return (
         <Card 
-        key={i} 
+        key={robots[i].id} 
         id={robots[i].id} 
         name={robots[i].name} 
         email={robots[i].email}
