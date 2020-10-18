@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/CasasrobotFriends/static/css/main.9c24e0dc.chunk.css",
+    "main.js": "/CasasrobotFriends/static/js/main.e2386cd1.chunk.js",
+    "main.js.map": "/CasasrobotFriends/static/js/main.e2386cd1.chunk.js.map",
+    "runtime-main.js": "/CasasrobotFriends/static/js/runtime-main.85cfe165.js",
+    "runtime-main.js.map": "/CasasrobotFriends/static/js/runtime-main.85cfe165.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/CasasrobotFriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cbb87561.chunk.js": "/CasasrobotFriends/static/js/2.cbb87561.chunk.js",
+    "static/js/2.cbb87561.chunk.js.map": "/CasasrobotFriends/static/js/2.cbb87561.chunk.js.map",
+    "index.html": "/CasasrobotFriends/index.html",
+    "precache-manifest.d90441c6f01fef09fbb0d8d452b7b04c.js": "/CasasrobotFriends/precache-manifest.d90441c6f01fef09fbb0d8d452b7b04c.js",
+    "service-worker.js": "/CasasrobotFriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/CasasrobotFriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.9c24e0dc.chunk.css.map": "/CasasrobotFriends/static/css/main.9c24e0dc.chunk.css.map",
+    "static/js/2.cbb87561.chunk.js.LICENSE.txt": "/CasasrobotFriends/static/js/2.cbb87561.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/CasasrobotFriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85cfe165.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cbb87561.chunk.js",
+    "static/css/main.9c24e0dc.chunk.css",
+    "static/js/main.e2386cd1.chunk.js"
+  ]
+}
